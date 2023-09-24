@@ -1,6 +1,6 @@
 {
     "minVersion":1,
-    "isAppActive":true,
+    "isAppActive":false,
     "message1":"Get results 50% faster, even during server overload",
     "credit":"Developed by : Sabbir MMS"
 }
