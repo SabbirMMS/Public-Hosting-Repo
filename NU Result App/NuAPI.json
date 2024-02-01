@@ -4,7 +4,7 @@
   "message1": "Get results 50% faster, even during server overload",
   "credit": "Rate us on Google Play ☝️",
   "info": {
-    "isShowInfo": true,
+    "isShowInfo": false,
     "isShuffleList": true,
     "infoUrl": "https://sabbirmms.github.io/Public-Hosting-Repo/NU%20Result%20App/NuInformationAPI.json",
     "infoUrlDebug": "https://mms-studio.000webhostapp.com/Confedencial%20Folder/NU%20Result/InfoApi.json"
