@@ -1,0 +1,50 @@
+[
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Form Fillup",
+        "logoUrl": "",
+        "url": "http://ems.nu.ac.bd/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Student Login",
+        "logoUrl": "",
+        "url": "http://ems.nu.ac.bd/student-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "College Login",
+        "logoUrl": "",
+        "url": "http://ems.nu.ac.bd/c-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "College User Login",
+        "logoUrl": "",
+        "url": "http://ems.nu.ac.bd/cu-login"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Notices",
+        "logoUrl": "",
+        "url": "https://www.nu.ac.bd/recent-news-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Form Fillup",
+        "logoUrl": "",
+        "url": "http://ems.nu.ac.bd/"
+    }
+]
