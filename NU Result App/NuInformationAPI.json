@@ -10,7 +10,7 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "Student Login",
         "logoUrl": "",
         "url": "http://ems.nu.ac.bd/student-login"
@@ -18,14 +18,14 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "FALSE",
+        "canRedirect": "TRUE",
         "title": "College Login",
         "logoUrl": "",
         "url": "http://ems.nu.ac.bd/c-login"
     },
     {
         "isActive": "TRUE",
-        "canPrint": "FALSE",
+        "canPrint": "TRUE",
         "canRedirect": "FALSE",
         "title": "College User Login",
         "logoUrl": "",
