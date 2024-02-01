@@ -3,48 +3,152 @@
         "isActive": "TRUE",
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
-        "title": "Form Fillup",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122090202551308358/music.png",
-        "url": "http://ems.nu.ac.bd/"
+        "title": "From Fill-up",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643250487336/from.png",
+        "url": "http://nubd.info/formfillup/"
     },
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "TRUE",
+        "canRedirect": "FALSE",
+        "title": "Admit Card",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642671669318/admitCard.png",
+        "url": "https://www.nu.ac.bd/admit/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
         "title": "Student Login",
-        "logoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122077546603892818/driving.webp",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644773011466/studentLogin.png",
         "url": "http://ems.nu.ac.bd/student-login"
     },
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "TRUE",
+        "canRedirect": "FALSE",
         "title": "College Login",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122072677885157457/bangla.png",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202571727708753951/login.png",
         "url": "http://ems.nu.ac.bd/c-login"
     },
     {
         "isActive": "TRUE",
-        "canPrint": "TRUE",
+        "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "College User Login",
-        "logoUrl": "",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202571727708753951/login.png",
         "url": "http://ems.nu.ac.bd/cu-login"
     },
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
-        "title": "Notices",
-        "logoUrl": "",
+        "title": "Admission",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645397966908/admission.png",
+        "url": "http://admission.nu.edu.bd/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "TRUE",
+        "title": "Recent Notice",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
         "url": "https://www.nu.ac.bd/recent-news-notice.php"
     },
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
-        "title": "Form Fillup",
-        "logoUrl": "",
-        "url": "http://ems.nu.ac.bd/"
+        "title": "Examination Notice",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "url": "https://www.nu.ac.bd/examination-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Admission Notice",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "url": "https://www.nu.ac.bd/admission-notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "General Notice",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "url": "https://www.nu.ac.bd/notice-general.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Important Notice",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
+        "url": "http://admission.nu.edu.bd/notice.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Download Form & Instruction",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
+        "url": "https://www.nu.ac.bd/download-form-instruction.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Honors CGPA Calculator",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642973528104/calculator.png",
+        "url": "https://gpacalculatorbd.com/honours-cgpa-calculator/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Degree CGPA Calculator",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642973528104/calculator.png",
+        "url": "https://gpacalculatorbd.com/degree-cgpa-calculator/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Honors Syllabus",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644521230407/result.png",
+        "url": "https://www.nu.ac.bd/syllabus-honours.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Degree Syllabus",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644521230407/result.png",
+        "url": "https://www.nu.ac.bd/syllabus-degree-pass.php"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Grading System",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644181749760/ranking.png",
+        "url": "https://gpainfobd.com/national-university-grading-system/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Official Website",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png",
+        "url": "https://www.nu.ac.bd/"
+    },
+    {
+        "isActive": "TRUE",
+        "canPrint": "FALSE",
+        "canRedirect": "FALSE",
+        "title": "Official Website 2",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png",
+        "url": "http://nubd.info/"
     }
 ]
