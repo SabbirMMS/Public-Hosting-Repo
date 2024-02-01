@@ -4,7 +4,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Form Fillup",
-        "logoUrl": "",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122090202551308358/music.png",
         "url": "http://ems.nu.ac.bd/"
     },
     {
@@ -12,7 +12,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Student Login",
-        "logoUrl": "",
+        "logoUrl": "https://media.discordapp.net/attachments/1121841083807178924/1122077546603892818/driving.webp",
         "url": "http://ems.nu.ac.bd/student-login"
     },
     {
@@ -20,7 +20,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "College Login",
-        "logoUrl": "",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122072677885157457/bangla.png",
         "url": "http://ems.nu.ac.bd/c-login"
     },
     {
