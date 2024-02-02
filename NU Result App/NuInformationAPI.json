@@ -130,10 +130,10 @@
     {
         "isActive": "TRUE",
         "canPrint": "FALSE",
-        "canRedirect": "TRUE",
+        "canRedirect": "FALSE",
         "title": "Grading System",
         "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644181749760/ranking.png",
-        "url": "https://gpainfobd.com/national-university-grading-system/"
+        "url": "https://sites.google.com/view/nuresultsapp/grading"
     },
     {
         "isActive": "TRUE",
