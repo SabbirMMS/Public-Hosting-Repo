@@ -5,7 +5,7 @@
   "credit": "Rate us on Google Play ☝️",
   "info": {
     "isShowInfo": true,
-    "isShuffleList": true,
+    "isShuffleList": false,
     "infoUrl": "https://sabbirmms.github.io/Public-Hosting-Repo/NU%20Result%20App/NuInformationAPI.json",
     "infoUrlDebug": "https://mms-studio.000webhostapp.com/Confedencial%20Folder/NU%20Result/InfoApi.json"
   }
