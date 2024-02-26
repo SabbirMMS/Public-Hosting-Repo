@@ -4,7 +4,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "From Fill-up",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643250487336/from.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643250487336/from.png?ex=65e99fb0&is=65d72ab0&hm=8254780f3e94c29fb9419de05c35bb011742eac81e8decd46e4de643deb9ccd8&=&format=webp&quality=lossless&width=395&height=395",
         "url": "http://nubd.info/formfillup/"
     },
     {
@@ -12,7 +12,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Admit Card",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642671669318/admitCard.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570642671669318/admitCard.png?ex=65e99faf&is=65d72aaf&hm=2d4f977862af2e300e14ea91a49d963da26b44dd070471f412340e1a440722a7&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/admit/"
     },
     {
@@ -20,7 +20,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Student Login",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644773011466/studentLogin.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570644773011466/studentLogin.png?ex=65e99fb0&is=65d72ab0&hm=0e2d427a05421a2a5d79079ee360104afc2a620ab05fe1ac10f4587e6f38f362&=&format=webp&quality=lossless&width=395&height=395",
         "url": "http://ems.nu.ac.bd/student-login"
     },
     {
@@ -28,7 +28,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "College Login",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202571727708753951/login.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202571727708753951/login.png?ex=65e9a0b2&is=65d72bb2&hm=cc85cf3618e011005ae20b0d2a7df78a1eab7021b7cc6bfb03c26b7a4b802750&=&format=webp&quality=lossless",
         "url": "http://ems.nu.ac.bd/c-login"
     },
     {
@@ -36,7 +36,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "College User Login",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202571727708753951/login.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202571727708753951/login.png?ex=65e9a0b2&is=65d72bb2&hm=cc85cf3618e011005ae20b0d2a7df78a1eab7021b7cc6bfb03c26b7a4b802750&=&format=webp&quality=lossless",
         "url": "http://ems.nu.ac.bd/cu-login"
     },
     {
@@ -44,7 +44,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Admission",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645397966908/admission.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570645397966908/admission.png?ex=65e99fb0&is=65d72ab0&hm=916cb64efabae23c120837c298739cf17650976d0e8801c3e98db966a52b2d14&=&format=webp&quality=lossless&width=395&height=395",
         "url": "http://admission.nu.edu.bd/"
     },
     {
@@ -52,7 +52,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Recent Notice",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643942408242/notice2.png?ex=65e99fb0&is=65d72ab0&hm=4973d233f96712bedd31410fc88103bf3e0d6bb266742a6794ded3e9fc7d32ab&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/recent-news-notice.php"
     },
     {
@@ -60,7 +60,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Examination Notice",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643628097556/notice1.png?ex=65e99fb0&is=65d72ab0&hm=fb6c746092e9ca962f95dd90a4f62c625abc9acc573f9ab78acc4222f251ef95&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/examination-notice.php"
     },
     {
@@ -68,7 +68,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Admission Notice",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643628097556/notice1.png?ex=65e99fb0&is=65d72ab0&hm=fb6c746092e9ca962f95dd90a4f62c625abc9acc573f9ab78acc4222f251ef95&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/admission-notice.php"
     },
     {
@@ -76,7 +76,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "General Notice",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643628097556/notice1.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643628097556/notice1.png?ex=65e99fb0&is=65d72ab0&hm=fb6c746092e9ca962f95dd90a4f62c625abc9acc573f9ab78acc4222f251ef95&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/notice-general.php"
     },
     {
@@ -84,7 +84,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Important Notice",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643942408242/notice2.png?ex=65e99fb0&is=65d72ab0&hm=4973d233f96712bedd31410fc88103bf3e0d6bb266742a6794ded3e9fc7d32ab&=&format=webp&quality=lossless&width=395&height=395",
         "url": "http://admission.nu.edu.bd/notice.php"
     },
     {
@@ -92,7 +92,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Download Form & Instruction",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570643942408242/notice2.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570643942408242/notice2.png?ex=65e99fb0&is=65d72ab0&hm=4973d233f96712bedd31410fc88103bf3e0d6bb266742a6794ded3e9fc7d32ab&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/download-form-instruction.php"
     },
     {
@@ -100,7 +100,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Honors CGPA Calculator",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642973528104/calculator.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570642973528104/calculator.png?ex=65e99faf&is=65d72aaf&hm=24b1c2db0f13203edf2300f0cf1c2d92e0999398ef535c9632177e1812e65dc2&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://gpacalculatorbd.com/honours-cgpa-calculator/"
     },
     {
@@ -108,7 +108,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Degree CGPA Calculator",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570642973528104/calculator.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570642973528104/calculator.png?ex=65e99faf&is=65d72aaf&hm=24b1c2db0f13203edf2300f0cf1c2d92e0999398ef535c9632177e1812e65dc2&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://gpacalculatorbd.com/degree-cgpa-calculator/"
     },
     {
@@ -116,7 +116,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Honors Syllabus",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644521230407/result.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570644521230407/result.png?ex=65e99fb0&is=65d72ab0&hm=388142dbbcaaef4e01d7808476401d97a36fbb04a65d56164ad5f9c82c2a326b&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/syllabus-honours.php"
     },
     {
@@ -124,7 +124,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Degree Syllabus",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644521230407/result.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570644521230407/result.png?ex=65e99fb0&is=65d72ab0&hm=388142dbbcaaef4e01d7808476401d97a36fbb04a65d56164ad5f9c82c2a326b&=&format=webp&quality=lossless&width=395&height=395",
         "url": "https://www.nu.ac.bd/syllabus-degree-pass.php"
     },
     {
@@ -132,7 +132,7 @@
         "canPrint": "FALSE",
         "canRedirect": "FALSE",
         "title": "Grading System",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570644181749760/ranking.png",
+        "logoUrl": "https://media.discordapp.net/attachments/1202570509816954910/1202570644181749760/ranking.png?ex=65e99fb0&is=65d72ab0&hm=b76e46e39ee411e21bbe70670d8f9dec6a910bcb7d6190bb565bbc1aa9d2e949&=&format=webp&quality=lossless",
         "url": "https://sites.google.com/view/nuresultsapp/grading"
     },
     {
@@ -140,7 +140,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Official Website",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png?ex=65e99fb0&is=65d72ab0&hm=cddf42adc2f799532b8fb5a9e54652b9e59db8b54a37210832c3b3565289ed30&",
         "url": "https://www.nu.ac.bd/"
     },
     {
@@ -148,7 +148,7 @@
         "canPrint": "FALSE",
         "canRedirect": "TRUE",
         "title": "Official Website 2",
-        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png",
+        "logoUrl": "https://cdn.discordapp.com/attachments/1202570509816954910/1202570645108695060/web.png?ex=65e99fb0&is=65d72ab0&hm=cddf42adc2f799532b8fb5a9e54652b9e59db8b54a37210832c3b3565289ed30&",
         "url": "http://nubd.info/"
     }
 ]
