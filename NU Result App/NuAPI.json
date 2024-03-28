@@ -2,7 +2,7 @@
   "minVersion": 1,
   "isAppActive": true,
   "message1": "Get results 50% faster, even during server overload",
-  "credit": "আপনার অভিজ্ঞতা, মতামত, ফিচারস অনুরোধ, বা প্রশ্ন শেয়ার করতে গুগল প্লে স্টোর রিভিউ ব্যবহার করুন।",
+  "credit": "আপনার অভিজ্ঞতা, মতামত, ফিচারস অনুরোধ, বা প্রশ্ন\nশেয়ার করতে গুগল প্লে স্টোর রিভিউ ব্যবহার করুন।",
   "info": {
     "is-Show-Info Explain": "When isShowInfo is true, the info feature is visible; otherwise, it's hidden.",
     "isShowInfo": true,
