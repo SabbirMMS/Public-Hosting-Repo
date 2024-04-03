@@ -7,7 +7,7 @@
     "is-Show-Info Explain": "When isShowInfo is true, the info feature is visible; otherwise, it's hidden.",
     "isShowInfo": true,
     "is-Shuffle-List Explain":"List shuffles if true.",
-    "isShuffleList": true,
+    "isShuffleList": false,
     "infoUrl": "https://sabbirmms.github.io/Public-Hosting-Repo/NU%20Result%20App/NuInformationAPI.json",
     "infoUrlDebug": "https://sabbirmms.github.io/Public-Hosting-Repo/NU%20Result%20App/NuInformationAPI.json"
   }
